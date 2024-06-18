@@ -21,10 +21,10 @@
     {
       "identity" : "nimble",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Quick/Nimble.git",
+      "location" : "https://github.com/Krestol/Nimble.git",
       "state" : {
-        "revision" : "efe11bbca024b57115260709b5c05e01131470d0",
-        "version" : "13.2.1"
+        "revision" : "f340c29781b95fd2f7e89f6196b1aa9235bb5460",
+        "version" : "13.3.1"
       }
     },
     {
@@ -48,10 +48,10 @@
     {
       "identity" : "swift-fakes",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Quick/swift-fakes.git",
+      "location" : "https://github.com/Krestol/swift-fakes.git",
       "state" : {
-        "revision" : "d38a57c30ec2cbc7fb1c69e20fe3d7b7aebd60b3",
-        "version" : "0.0.1"
+        "revision" : "cedc13be6505d5c31b576a412d96325286d04f89",
+        "version" : "0.1.3"
       }
     },
     {
